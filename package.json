@@ -23,12 +23,12 @@
         "url": "https://github.com/honkmaster/homebridge-mi-flower-care/issues"
     },
     "homepage": "https://github.com/honkmaster/homebridge-mi-flower-care#readme",
-    "engines" : {
+    "engines": {
         "node": ">=0.12.0",
         "homebridge": ">=0.2.0"
     },
-    "dependencies" :{
-        "node-mi-flora" : "0.1.1",
-        "fakegato-history": "^0.5.2"
+    "dependencies": {
+        "fakegato-history": "^0.5.2",
+        "node-mi-flora": "git+https://github.com/vpeti/node-mi-flora.git"
     }
 }
