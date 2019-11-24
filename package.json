@@ -1,5 +1,5 @@
 {
-    "name": "homebridge-mi-flower-care",
+    "name": "@vpeti/homebridge-mi-flower-care",
     "version": "1.1.0",
     "description": "This is a homebridge plugin for the Xiaomi Mi Flora / Xiaomi Flower Care devices.",
     "main": "index.js",
@@ -9,6 +9,9 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/honkmaster/homebridge-mi-flower-care.git"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
     },
     "keywords": [
         "homebridge",
