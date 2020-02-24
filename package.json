@@ -32,6 +32,6 @@
     },
     "dependencies": {
         "fakegato-history": "^0.5.2",
-        "node-mi-flora": "vpeti/node-mi-flora"
+        "node-mi-flora": "beeguy1234/node-mi-flora"
     }
 }
