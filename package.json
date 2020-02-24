@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/vpeti/homebridge-mi-flower-care.git"
+        "url": "git+https://github.com/nielsth/homebridge-mi-flower-care.git"
     },
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
