@@ -32,6 +32,6 @@
     },
     "dependencies": {
         "fakegato-history": "^0.5.2",
-        "github:vpeti/node-mi-flora": "0.1.1"
+        "node-mi-flora": "vpeti/node-mi-flora"
     }
 }
